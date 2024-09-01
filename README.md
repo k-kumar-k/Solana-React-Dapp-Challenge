@@ -8,8 +8,6 @@ This React application demonstrates integration with the Solana blockchain using
 2. [Features](#features)
 3. [Dependencies](#dependencies)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Getting Started
 
@@ -43,11 +41,3 @@ This project uses the following technologies and libraries:
 - **Connect Wallet:** Click the "Connect Wallet" button to connect to an existing Phantom wallet. Once connected, you can transfer tokens and check balances.
 - **Transfer SOL to New Account:** Use the "Transfer SOL to New Account" button to send SOL tokens to the newly created or connected wallet.
 - **Get Wallet Balance:** Click the "Get Wallet Balance" button to view the balance of the currently connected wallet or the newly created account.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or wish to enhance the functionality of this application, feel free to submit a pull request or report an issue.
-
-## License
-
-[Specify License Here]
